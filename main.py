@@ -52,7 +52,7 @@ async def start(client, message):
             InlineKeyboardButton("❮ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ❯", url=f"https://t.me/Mahi_x_chatbot?startgroup=true")
         ]
         ]
-        video = "https://telegra.ph/file/fb393c4d2c4e6cbd6b01e.jpg"
+        video = "https://te.legra.ph/file/762de871b071dd34cbfb4.mp4"
         await message.reply_video(video, caption=f"""ʜᴇʟʟᴏ[{message.from_user.first_name}](tg://user?id={message.from_user.id}),
 ɪ ᴀᴍ ᴄʜᴀᴛʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 ┏━━━━━━━━━━━━━━━━━┓
